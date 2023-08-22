@@ -1,4 +1,4 @@
-# CRUD com express e mongodb
+# CRUD com Express e MongoDB
 CRUD de estudo feito com Express.js e MongoDB.
 
 ## O que utilizei
